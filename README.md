@@ -83,7 +83,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ```
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-04-23 at 14.34.42_c6b39eba.jpg>)
+![alt text](image-1.jpg)
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
@@ -101,7 +101,6 @@ exit(EXIT_SUCCESS);
 ```
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-04-23 at 14.34.42_8a7b070f.jpg>)
-
+![alt text](<image 1-1.jpg>)
 # RESULT:
 The program is executed successfully.
